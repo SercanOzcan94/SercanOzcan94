@@ -1,4 +1,4 @@
-![MasterHead][(https://img.freepik.com/premium-photo/matrix-software-code-virtual-computer-system-banner-background-with-copy-space-made-with-generative-ai_155027-3521.jpg?w=1380)]
+![MasterHead](https://img.freepik.com/premium-photo/matrix-software-code-virtual-computer-system-banner-background-with-copy-space-made-with-generative-ai_155027-3521.jpg?w=1380)
 ![](https://komarev.com/ghpvc/?username=SercanOzcan94&color=red)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
